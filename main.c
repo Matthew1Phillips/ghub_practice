@@ -121,6 +121,11 @@ void fizzBuzz(unsigned int val) {
     //printf("\n");
 }
 
+/* Prints first n Fibonacci numbers. 
+ * Sequence numbers satisfying the 
+ * constraints of the problem are
+ * printed according to specifications.
+ * */
 void F(unsigned int n) {
     unsigned int curr  = 0,
                  prev1 = 1,
